@@ -1,0 +1,5 @@
+link al repositorio:
+https://github.com/Marcos92lp/proyectocvlouellafreeman.git
+
+link al deploy: 
+https://marcos92lp.github.io/proyectocvlouellafreeman/
